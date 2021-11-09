@@ -1,5 +1,8 @@
+# SECURITY WARNING: keep the secret key used in production secret!
+SECRET_KEY = '-2#se2w2t^20h%7g6_6+(zztxlmz#99f*r(dgsri7@ip_8zov@'
 
-SECRET_KEY = 'django-insecure-c*a&w$z6k5-lbh6h2lf8cz@1788#xaznzh%61bxz5vv$5savea'
+# Database
+# https://docs.djangoproject.com/en/3.1/ref/settings/#databases
 
 DATABASES = {
     'default': {
